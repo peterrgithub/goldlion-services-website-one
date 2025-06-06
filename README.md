@@ -1,1 +1,1 @@
-This project aims to experiment with the power of python streamlit library (insted of the widely used flask) for website development. Periodic functionality improvements for the website will be added as discovered.
+This project aims to experiment with the power of python streamlit library (about 98% of the streamlit library was used insted of the widely used flask) for website development. Periodic functionality improvements for the website will be added as discovered.
