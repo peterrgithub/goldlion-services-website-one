@@ -145,7 +145,7 @@ with st.container():
         st.write("---")
         text_column1, text_column2, text_column3 = st.columns((1, 2, 3))
         with text_column1:
-            st.header("Pay")
+            st.subheader("Pay")
             st.write(
                 """
                 Cards\n
@@ -157,7 +157,7 @@ with st.container():
                 """
             )
             
-            st.header("License")
+            st.subheader("License")
             st.write(
                 """
                 RC: PL20420
@@ -165,7 +165,7 @@ with st.container():
             )
             
         with text_column2:
-            st.header("Refund Policy")
+            st.subheader("Refund Policy")
             st.write(
                 """
                 Any client seeking for a refund must make such request prior to my submission of the first phase of work; if the first phase commences before a
@@ -173,7 +173,7 @@ with st.container():
                 """
             )
             
-            st.header("Location")
+            st.subheader("Location")
             st.write(
                 """
                 16, Gut Central, Along Rayfield Resort Road, Off P.R.T.V. Roundabout, Rayfield, Jos, Plateau State, Nigeria
@@ -181,7 +181,7 @@ with st.container():
             )
             
         with text_column3:
-            st.header("Partners")
+            st.subheader("Partners")
             st.write(
                 """
                 Sheltonville Schools, Jos  |  Emmanuel International College, Jos  |  Day-by-Day Academy, Abuja  |  Jorola Integrations
