@@ -59,7 +59,7 @@ local_css("style/style.css")
     #Our Services
 with st.container():
     st.write("---")
-    st.title("Study Abroad")
+    st.title("Technologies")
     left_column, right_column = st.columns(2)
     with left_column:
         st.write(
