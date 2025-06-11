@@ -54,7 +54,7 @@ local_css("style/style.css")
 #=====Loading Assets======
 
 
-    #My Services
+    #Our Services
 with st.container():
     st.write("---")
     st.title("Study Abroad")
