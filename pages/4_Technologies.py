@@ -79,7 +79,7 @@ with st.container():
 
     with right_column:
         st.image("fibreoptic2.jpg")
-        st.image("fibreoptic2.jpg")
+        st.image("fibreoptic1.jpg")
         
                   
     with st.container():
