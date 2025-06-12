@@ -211,7 +211,7 @@ with st.container():
         st.subheader("Wired LAN Installations")
         st.write(
             """
-            **WIRED LAN INSTALLTION 1:**
+            **WIRED LAN INSTALLATION 1:**
             Wired Local Area Network was installed at the the China Habour Engineering Construction Company camp located at Alizaga in Nassarawa Eggon local
             government area of Nassarawa State, Nigeria using Fibre Optic tcehnology;
             - About 400 meters square area competedly covered with internet network
