@@ -67,12 +67,46 @@ with st.container():
             €3,000 to €6,500 per year. Studying in Lithuania gives plenty of work opportuities especially with the pink card. In addition, being a schengen country,
             there is opportunity for you to visit 27 other countries with in the region without applying for visa during the off/holiday period. Featured programs
             include;
+            - BSc in Applied Chemistry
+            - BSc in Artificial Intelligence
+            - BSc in Automation Control
+            - BSc in Aviation Engineering
+            - BSc in Biomedical Materials Industtires
+            - BSc in Business Digitalization Management
+            - BSc in Chemical Technology and Engineering
+            - BSc in Communcation Studies and Information Management
+            - BSc in Economics and Investment
+            - BSc Electrical and Electronics Engineering
+            - BSc in Engineering Physics
+            - BSc in Fashion Engineering
+            - BSc in Food Science and Technology
+            - BSc in Industrial Biotechnology
+            - BSc in Industrial Engineering
+            - BSc in Informatics
+            - BSc in Intelligent Robotic Systems
+            - BSc in Materials Physics and Nanotechnology
+            - BSc in Mechatronics
+            - BSc in Politics of Global Challenges
+            - BSc in Politics, Philosophy and Society
+            - BSc in Public Governance and Civil Society
+            - BSc in Renewable Energy Engineering
+            - BSc in Sustainability and Future Societies
+            - BSc in Transport Electronics
             - BA in Branding and Advertising Management
             - BEngr. in Light Engineering
             - BSc in in Information Systems and Cyber Security
             - BSc in Quantitative Economics e.t.c.
             - BSc in Digital Economy
             - LLM in LegalTech
+            - MSc in Construction Management
+            - MSc in Control Technologies
+            - MSc in Design for Sustainable Future
+            - MSc in Environmental Engineering
+            - MSc in Medicinal Physics
+            - MSc in Medicinal Chemistry
+            - MSc in Structural and Building Products Engineering
+            - MSc in Sustainable and Energy Efficient Buildings
+            - MSc in Sustainable Management and Production
             - MSc in DeepTech Entrepreneurship
             - MSc in Financial Technology
             - MSc in Photonics and Nanotechnology
